@@ -14,4 +14,5 @@ Installed JDK, eclipse and properly configured environment variables on windows
 
 Instructions for use
 1. Copy the files into a package and change the packagename accordingly
-2. The files should be runable
+2. Fill in the path to your chromeDriver in the initializeWebdriver Method
+3. The files should be runable
